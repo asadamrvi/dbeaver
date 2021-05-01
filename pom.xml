@@ -21,6 +21,11 @@
         <key.storage.path>/etc/</key.storage.path>
         <tsa/>
     </properties>
+         <properties>
+  <sonar.projectKey>asadamrvi_dbeaver</sonar.projectKey>
+  <sonar.organization>jhjkkjkjj</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
     <modules>
         <module>bundles</module>
